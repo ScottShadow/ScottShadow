@@ -37,11 +37,11 @@ I am always open to collaborating on interesting projects and contributing to op
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ScottShadow]&show_icons=true&theme=radical" alt="[ScottShadow]'s GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScottShadow&show_icons=true&theme=radical" alt="ScottShadow's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[ScottShadow]&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScottShadow&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
