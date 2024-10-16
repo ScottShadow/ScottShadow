@@ -43,7 +43,6 @@ I am always open to collaborating on interesting projects and contributing to op
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScottShadow&theme=radical" alt="GitHub Streak">
 </p>
-## 🌍 **Most Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScottShadow&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
