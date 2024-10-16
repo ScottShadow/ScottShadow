@@ -50,10 +50,12 @@ I am always open to collaborating on interesting projects and contributing to op
 ---
 
 ## 🌱 **Currently Learning**
-I am currently exploring Web Development Technologies and Frameworks.
----
 
+I am currently exploring Web Development Technologies and Frameworks.
+  
+---
 ## ⚡ **Fun Fact**
+
 When I’m not deep into coding, you can find me learning something new—whether it’s a new language, the latest tech, or pushing my limits in the gym. I’m always looking for ways to combine creativity and technology in unexpected ways.
 
 
