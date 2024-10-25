@@ -63,6 +63,7 @@ When I’m not deep into coding, you can find me learning something new—whethe
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScottShadow&theme=radical" alt="ScottShadow's GitHub Contribution Graph">
 </p>
+---
 ## 📊 **Contribution Graph**
 [![ScottShadow's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ScottShadow&theme=rogue)](https://github.com/ScottShadow)
 
