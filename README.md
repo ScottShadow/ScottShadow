@@ -65,7 +65,8 @@ When I’m not deep into coding, you can find me learning something new—whethe
 </p>
 ---
 ## 📊 **Contribution Graph**
-[![ScottShadow's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ScottShadow&theme=rogue)](https://github.com/ScottShadow)
+![ScottShadow's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ScottShadow&theme=rogue)
+
 
 <!---
 ScottShadow/ScottShadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
