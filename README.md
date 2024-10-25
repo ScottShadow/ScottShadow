@@ -59,6 +59,11 @@ I am currently exploring Web Development Technologies and Frameworks.
 When I’m not deep into coding, you can find me learning something new—whether it’s a new language, the latest tech, or pushing my limits in the gym. I’m always looking for ways to combine creativity and technology in unexpected ways.
 
 
+## 📊 **GitHub Contributions**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScottShadow&theme=radical" alt="ScottShadow's GitHub Contribution Graph">
+</p>
+
 
 <!---
 ScottShadow/ScottShadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
