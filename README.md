@@ -63,10 +63,6 @@ When I’m not deep into coding, you can find me learning something new—whethe
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScottShadow&theme=radical" alt="ScottShadow's GitHub Contribution Graph">
 </p>
----
-## 📊 **Contribution Graph**
-![ScottShadow's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ScottShadow&theme=rogue)
-
 
 <!---
 ScottShadow/ScottShadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
