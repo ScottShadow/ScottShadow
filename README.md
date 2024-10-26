@@ -7,31 +7,34 @@
 ---
 
 ## 🛠️ **About Me**
-I am a graduating student of the **ALX Software Engineering Program**, where I began my journey in software development. My passion for solving real-world problems, building impactful applications, and automating tasks drives me to continuously push boundaries and explore innovative technologies.
+I’m a dedicated Software Engineer and a recent graduate of the **ALX Software Engineering Program**, where I honed my skills in full-stack development and systems engineering. I’m driven by a passion for solving real-world problems and pushing the boundaries of technology through continuous learning and exploration.
 
-I enjoy working on projects that challenge my problem-solving skills and allow me to contribute meaningfully to open-source communities. I'm excited about web development, systems engineering, AI and Game Development.
+Back-end development, automation, and scalable systems are my main focus, but I also have a solid foundation in front-end work, allowing me to deliver versatile, end-to-end solutions. I enjoy tackling complex challenges, building meaningful applications, and contributing to open-source communities.
 
 ---
 
 ## 💻 **Skills and Technologies**
-I am proficient in the following programming languages, frameworks, and technologies:
+Here’s a snapshot of my skills and current tech stack:
 
 - **Languages**: JavaScript (ES6+), Python, C, C++, Java, SQL
 - **Back-End**: Node.js, Flask, SQLAlchemy, Redis, MySQL, NoSQL
-- **Front-End**: HTML5, CSS3, JavaScript, JQuery
-- **DevOps & Tools**: Git, GitHub, Docker, Nginx, Gunicorn, SSH, SSL/TLS, Load Balancers
-- **Other**: Linux, Shell Scripting, Unit Testing, i18n, Caching, Queuing Systems, Data Structures, Algorithms
+- **Front-End**: HTML5, CSS3, JavaScript, jQuery (comfortable with front-end tasks when needed)
+- **DevOps & Tools**: Docker, Kubernetes, Nginx, Git, GitHub, Wait, SSH, SSL/TLS, Load Balancers, RabbitMQ
+- **Other**: Linux, Ubuntu, Bash Scripting, Unit Testing, i18n, Caching, Queuing Systems, ELK Stack (Elasticsearch, Logstash, Kibana)
+- **Data & Algorithms**: Strong foundation in Data Structures, Algorithms, and System Design
+
+---
 
 ## 🏆 **Certifications & Achievements**
-- **ALX Software Engineering Program** - ALX Software Engineering Program (Intensive 12-month program focused on hands-on learning in modern software development) - Completed 10/2024
-- **LDK High School DIPLOMA(Computer Science)** - Three Years learning Computer science alongside Maths and Physics - Completed 11/2022
+- **ALX Software Engineering Program** - Completed in 10/2024. An intensive 12-month program with a focus on modern software development, real-world applications, and hands-on coding.
+- **LDK High School Diploma (Computer Science)** - Completed in 11/2022. Three years of study in Computer Science alongside Mathematics and Physics.
 
 ---
 
 ## 👥 **Collaboration & Open Source**
-I am always open to collaborating on interesting projects and contributing to open-source software. Feel free to reach out to me if you want to brainstorm ideas or build something cool together!
+I’m always interested in collaborating on innovative projects and contributing to the open-source community. Feel free to reach out if you'd like to brainstorm or build something impactful together!
 
-- **How to reach me**: [Message Me](mailto:rudaseswascottmc@gmail.com)
+- **Reach Me**: [rudaseswascottmc@gmail.com](mailto:rudaseswascottmc@gmail.com)
 
 ---
 
@@ -43,6 +46,7 @@ I am always open to collaborating on interesting projects and contributing to op
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScottShadow&theme=radical" alt="GitHub Streak">
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScottShadow&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
@@ -50,14 +54,18 @@ I am always open to collaborating on interesting projects and contributing to op
 ---
 
 ## 🌱 **Currently Learning**
+I am currently diving deeper into back-end technologies and DevOps practices to strengthen my skill set:
 
-I am currently exploring Web Development Technologies and Frameworks.
-  
+- **RabbitMQ** for message brokering and handling real-time data.
+- **ELK Stack** for monitoring and log analysis, making scalable systems even more robust.
+- **PyTorch** for AI and machine learning to expand my capabilities into intelligent features.
+
 ---
+
 ## ⚡ **Fun Fact**
+When I’m not deep into code, you can find me learning something new—whether it’s a foreign language, the latest in tech, or pushing my physical limits in the gym. I’m always on the lookout for ways to blend creativity with technology in fresh, impactful ways.
 
-When I’m not deep into coding, you can find me learning something new—whether it’s a new language, the latest tech, or pushing my limits in the gym. I’m always looking for ways to combine creativity and technology in unexpected ways.
-
+---
 
 ## 📊 **GitHub Contributions**
 <p align="center">
@@ -68,3 +76,5 @@ When I’m not deep into coding, you can find me learning something new—whethe
 ScottShadow/ScottShadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
