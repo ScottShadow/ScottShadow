@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Scott 👋</h1>
 
 <p align="center">
-    <i>Passionate Software Engineer | Lifelong Learner | Problem Solver | Polyglot | Loves AI</i>
+    <i>Passionate Software Engineer | Lifelong Learner | Creative Problem Solver | Polyglot | Loves AI</i>
 </p>
 
 ---
