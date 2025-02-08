@@ -27,7 +27,7 @@ I’m a dedicated Software Engineer and an ALX Software Engineering Program grad
 
 ### **🛠️ DevOps & Tools**  
 - **Hosting**: AWS, .techdomains, Railway  
-- **Containerization & Orchestration**: Docker  
+- **Containerization & Orchestration**: Docker, Kubernetes
 - **Server & Networking**: Nginx, Apache, **Load Balancers, SSL/TLS, SSH** 
 - **Version Control & CI/CD**: Git, GitHub  
 - **Monitoring & Security**: Server monitoring, logging  
