@@ -1,32 +1,56 @@
-<h1 align="center">Hi there, I'm Scott 👋</h1>
-
-<p align="center">
-    <i>Passionate Software Engineer | Lifelong Learner | Creative Problem Solver | Polyglot | Loves AI</i>
-</p>
+<h1 align="center">👨‍💻 Hey, I'm Scott – Engineer | Innovator | AI Enthusiast</h1>
 
 ---
 
 ## 🛠️ **About Me**
-I’m a dedicated Software Engineer and a recent graduate of the **ALX Software Engineering Program**, where I honed my skills in full-stack development and systems engineering. I’m driven by a passion for solving real-world problems and pushing the boundaries of technology through continuous learning and exploration.
-
-Back-end development, automation, and scalable systems are my main focus, but I also have a solid foundation in front-end work, allowing me to deliver versatile, end-to-end solutions. I enjoy tackling complex challenges, building meaningful applications, and contributing to open-source communities.
+I’m a dedicated Software Engineer and an ALX Software Engineering Program graduate, specializing in **scalable systems** and **automation**. My passion lies in building **efficient full-stack solutions** that solve real-world problems. Through continuous **learning** and open-source contributions, I push the boundaries of **technology** and **innovation**.
 
 ---
 
-## 💻 **Skills and Technologies**
-Here’s a snapshot of my skills and current tech stack:
+## 💻 **Skills and Technologies**  
 
-- **Languages**: JavaScript (ES6+), Python, C, C++, Java, SQL
-- **Back-End**: Node.js, Flask, SQLAlchemy, Redis, MySQL, NoSQL
-- **Front-End**: HTML5, CSS3, JavaScript, jQuery (comfortable with front-end tasks when needed)
-- **DevOps & Tools**: Docker, Kubernetes, Nginx, Git, GitHub, Wait, SSH, SSL/TLS, Load Balancers, RabbitMQ
-- **Other**: Linux, Ubuntu, Bash Scripting, Unit Testing, i18n, Caching, Queuing Systems, ELK Stack (Elasticsearch, Logstash, Kibana)
-- **Data & Algorithms**: Strong foundation in Data Structures, Algorithms, and System Design
+### **🖥️ Programming Languages**  
+- Python, JavaScript (ES6+), SQL, PHP, C++, Java, C, Bash  
 
+### **⚙️ Back-End Development**  
+- Flask, Node.js, Redis, MySQL, PostgreSQL  
+- **Database Design**: Scalable schema design, efficient relationships, data integrity, normalization when appropriate  
+- **Migrations & ORMs**: Alembic, SQLAlchemy (**Efficient schema versioning**)
+
+ 
+
+### **🎨 Front-End Development**  
+- React, Eleventy/Astro (for static websites)  
+- HTML5, CSS3, JavaScript, Tailwind CSS  
+- jQuery, GSAP (for animations)  
+
+### **🛠️ DevOps & Tools**  
+- **Hosting**: AWS, .techdomains, Railway  
+- **Containerization & Orchestration**: Docker  
+- **Server & Networking**: Nginx, Apache, **Load Balancers, SSL/TLS, SSH** 
+- **Version Control & CI/CD**: Git, GitHub  
+- **Monitoring & Security**: Server monitoring, logging  
+
+### **📡 Real-Time & Communication**  
+- WebSockets (for chats)
+- Service Workers (for notifications)
+
+### **🔒 Web Security & Testing**  
+- **Hashing & Encryption**: bcrypt, SHA, JWT
+- **OAuth & OpenID**: Secure authentication flows using OAuth2
+- **Authentication & Access Control**: session management  
+- **Vulnerability Testing**: SQLi, XSS, CSRF, brute-force protection  
+- **Secure API & Dependency Security**: CORS, rate limiting, token security  
+- **Unit & Integration Testing**: Pytest, Jest, Mocha, Postman
+  
+### **📊 System Design & Performance**  
+- Strong foundation in **Data Structures, Algorithms, and System Design**  
 ---
 
 ## 🏆 **Certifications & Achievements**
-- **ALX Software Engineering Program** - Completed in 10/2024. An intensive 12-month program with a focus on modern software development, real-world applications, and hands-on coding.
+- **ALX Software Engineering Program** - Completed in 10/2024.
+ - Built production-grade full-stack applications
+  - Mastered software design patterns and scalable system architecture
 - **LDK High School Diploma (Computer Science)** - Completed in 11/2022. Three years of study in Computer Science alongside Mathematics and Physics.
 
 ---
@@ -53,12 +77,11 @@ I’m always interested in collaborating on innovative projects and contributing
 
 ---
 
-## 🌱 **Currently Learning**
-I am currently diving deeper into back-end technologies and DevOps practices to strengthen my skill set:
+## 🌱 **Currently Learning**  
+I’m revisiting what i learned and building Applications to showcase my skills
 
-- **RabbitMQ** for message brokering and handling real-time data.
-- **ELK Stack** for monitoring and log analysis, making scalable systems even more robust.
-- **PyTorch** for AI and machine learning to expand my capabilities into intelligent features.
+- **Flask**: Scaling my project, [Adonis-Tracker](https://adonis-project-production.up.railway.app/api/v2/login)  
+- **PyTorch**: Exploring AI for intelligent automation in back-end services
 
 ---
 
