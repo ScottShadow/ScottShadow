@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Hey, I'm Scott 
- Engineer | Innovator | AI Enthusiast</h1>
+</br> Engineer | Innovator | AI Enthusiast</h1>
 
 ---
 
