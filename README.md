@@ -59,7 +59,7 @@ I’m a dedicated Software Engineer and an ALX Software Engineering Program grad
 ## 👥 **Collaboration & Open Source**
 I’m always interested in collaborating on innovative projects and contributing to the open-source community. Feel free to reach out if you'd like to brainstorm or build something impactful together!
 
-- **Reach Me**: [rudaseswascottmc@gmail.com](mailto:scottshadow56@gmail.com)
+- **Reach Me**: [email](mailto:scottshadow56@gmail.com)
 
 ---
 
