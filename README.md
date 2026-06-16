@@ -48,13 +48,6 @@ I’m a dedicated Software Engineer and an ALX Software Engineering Program grad
 - Strong foundation in **Data Structures, Algorithms, and System Design**  
 ---
 
-## 🏆 **Certifications & Achievements**
-- **ALX Software Engineering Program** - Completed in 10/2024.
- - Built production-grade full-stack applications
-  - Mastered software design patterns and scalable system architecture
-- **LDK High School Diploma (Computer Science)** - Completed in 11/2022. Three years of study in Computer Science alongside Mathematics and Physics.
-
----
 
 ## 👥 **Collaboration & Open Source**
 I’m always interested in collaborating on innovative projects and contributing to the open-source community. Feel free to reach out if you'd like to brainstorm or build something impactful together!
