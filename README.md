@@ -68,8 +68,6 @@ I’m revisiting what i learned and building Applications to showcase my skills
 ## ⚡ **Fun Fact**
 When I’m not deep into code, you can find me learning something new—whether it’s a foreign language, the latest in tech, or pushing my physical limits in the gym. I’m always on the lookout for ways to blend creativity with technology in fresh, impactful ways.
 
----
-
 
 <!---
 ScottShadow/ScottShadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
