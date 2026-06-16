@@ -77,10 +77,6 @@ When I’m not deep into code, you can find me learning something new—whether 
 
 ---
 
-## 📊 **GitHub Contributions**
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScottShadow&theme=radical" alt="ScottShadow's GitHub Contribution Graph">
-</p>
 
 <!---
 ScottShadow/ScottShadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
